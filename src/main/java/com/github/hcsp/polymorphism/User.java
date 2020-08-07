@@ -24,4 +24,5 @@ public class User {
     public boolean isVip() {
         return vip;
     }
+
 }
